@@ -1,6 +1,4 @@
-## New Rilis Tools Obfuscate Python Vip
-
-### how to access? chat https://t.me/pinguinpv
+### Ready Tools Obfuscate Python Only
 
 ### How To Install This Is Script
 
