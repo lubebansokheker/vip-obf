@@ -10,7 +10,7 @@ pip install colorama
 pip install requests
 git clone https://github.com/lubebansokheker/vip-obf.git
 cd vip-obf
-python vip.py
+python obf.py
 ```
 
 ### please request access to the owner 
